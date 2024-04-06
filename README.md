@@ -2,4 +2,4 @@
 
 Hello World desde React
 
-![Coding Academy](src/assets/codingsacademy.png)
+![Coding Academy](public/codingsacademy.png)
